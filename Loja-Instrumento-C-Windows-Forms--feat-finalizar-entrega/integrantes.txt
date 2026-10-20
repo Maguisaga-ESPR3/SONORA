@@ -1,0 +1,16 @@
+# Integrantes do Projeto - Loja de Instrumentos Musicais
+# Checkpoint 2 - C# Development - 3ESPR
+
+RM: 559765
+Nome: Guilherme Caseiro
+
+RM: 559813
+Nome: Matheus Aparecido Rocha Plati
+
+RM: 559269
+Nome: Samuel Baecker
+
+RM: 550121
+Nome: Gabriel Machado Belardino
+
+Link do repositório: [COLE AQUI O LINK PÚBLICO DO REPOSITÓRIO DA ORGANIZAÇÃO]
