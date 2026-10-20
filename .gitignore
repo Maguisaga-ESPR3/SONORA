@@ -1,0 +1,22 @@
+# Visual Studio / .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.exe
+*.dll
+*.log
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# GitHub / tooling
+.github/secret*
+
+# Node / web preview
+node_modules/

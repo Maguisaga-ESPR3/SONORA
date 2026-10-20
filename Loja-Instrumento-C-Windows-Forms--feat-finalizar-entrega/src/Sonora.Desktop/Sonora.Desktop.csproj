@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <!-- O layout usa tamanhos fixos desenhados para 100% de escala. Em DPI-unaware o Windows
+         ajusta a janela inteira e nada fica cortado em telas com 125%, 150% ou mais. -->
+    <ApplicationHighDpiMode>DpiUnaware</ApplicationHighDpiMode>
+  </PropertyGroup>
+  <ItemGroup><ProjectReference Include="../Sonora.Core/Sonora.Core.csproj" /></ItemGroup>
+</Project>
